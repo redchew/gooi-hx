@@ -1,0 +1,12 @@
+{
+    "name": "hx-gooi",
+    "classPath": "src",
+    "url" : "https://github.com/redchew/hx-gooi",
+    "license": "MIT",
+    "tags": ["love2d", "gui"],
+    "description": "Make us to use 'Gooi for Love2D' with Haxe",
+    "version": "0.1.0",
+    "releasenote": "",
+    "contributors": ["redchew"],
+    "dependencies": {}
+}
