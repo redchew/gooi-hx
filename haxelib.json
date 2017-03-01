@@ -5,8 +5,8 @@
     "license": "MIT",
     "tags": ["love2d", "gui"],
     "description": "Make us to use 'Gooi for Love2D' with Haxe",
-    "version": "0.1.0",
-    "releasenote": "",
+    "version": "0.1.1",
+    "releasenote": "fixed unmatched package path",
     "contributors": ["redchew"],
     "dependencies": {}
 }
